@@ -1,4 +1,4 @@
-# Getting Started with Quiz Master Online (QMO)
+# Getting Started with Quiz Master Online (QMO) #
 
 This project is hosted on netlify, and the link to access for the demo version of the app:
 
